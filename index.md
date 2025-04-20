@@ -6,18 +6,27 @@ layout: homepage
 
 I am a Ph.D. student at ...
 
-## Research Interests
+## Education 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+**Ph.D. in Computer Science**  
+Stanford University, Stanford, CA  
+*Sept 2020 – Present*  
+- Advisor: Prof. John Smith  
+- Research Area: Machine Learning & Computer Vision
 
-## News
+**M.S. in Electrical Engineering**  
+University of California, Berkeley  
+*Aug 2018 – May 2020*  
+- GPA: 3.9/4.0  
+- Thesis: "Deep Learning for Image Segmentation"
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+**B.S. in Physics**  
+Massachusetts Institute of Technology (MIT)  
+*Sep 2014 – Jun 2018*  
+- Graduated with Honors
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/preprints.md %}
+
+{% include_relative _includes/conference_participation.md %}
