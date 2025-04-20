@@ -4,28 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m a high school student at International Curriculum Center of The High School Affiliated to Renmin University of China.
 
 ## Education 
 
-**Ph.D. in Computer Science**  
-Stanford University, Stanford, CA  
-*Sept 2020 – Present*  
-- Advisor: Prof. John Smith  
-- Research Area: Machine Learning & Computer Vision
+**High School**  
+International Curriculum Center of The High School Affiliated to Renmin University of China
+*Sept 2023-Present*  
 
-**M.S. in Electrical Engineering**  
-University of California, Berkeley  
-*Aug 2018 – May 2020*  
-- GPA: 3.9/4.0  
-- Thesis: "Deep Learning for Image Segmentation"
+**The High School Affiliated to Renmin University of China**  
+*Sept 2020-Jun 2022*  
 
-**B.S. in Physics**  
-Massachusetts Institute of Technology (MIT)  
-*Sep 2014 – Jun 2018*  
-- Graduated with Honors
-
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/preprints.md %}
 
