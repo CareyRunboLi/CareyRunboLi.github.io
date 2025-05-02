@@ -13,7 +13,7 @@ International Curriculum Center, The High School Affiliated to Renmin University
 *Sept 2023-Present*  
 
 The High School Affiliated to Renmin University of China  
-*Sept 2020-Jun 2022*  
+*Sept 2020-Jun 2023*  
 
 <!-- {% include_relative _includes/publications.md %} -->
 
