@@ -1,7 +1,7 @@
 ## Publications
 
 <ul style="margin:0 0 5px;">
-  <li>16. On prime-producing sieves and distribution of $\alpha p - \beta$ mod $1$. Preprint. <a href="https://arxiv.org/abs/2504.13195"><autocolor>arXiv</autocolor></a></li>  
+  <li>16. On prime–producing sieves and distribution of $\alpha p - \beta$ mod $1$. Preprint. <a href="https://arxiv.org/abs/2504.13195"><autocolor>arXiv</autocolor></a></li>  
   <li>15. A note on variants of Buchstab's identity. Preprint. <a href="https://arxiv.org/abs/2504.07974"><autocolor>arXiv</autocolor></a></li>
   <li>14. The number of primes in short intervals and numerical calculations for Harman's sieve. Preprint. <a href="https://arxiv.org/abs/2308.04458"><autocolor>arXiv</autocolor></a></li>
   <li>13. On the Piatetski–Shapiro Prime Number Theorem II. Preprint. <a href="https://www.preprints.org/manuscript/202504.1165/v1"><autocolor>Preprints</autocolor></a></li>
