@@ -7,6 +7,7 @@
 ## Publications
 
 <ul style="margin:0 0 5px;">
+  <li>19. On the generalized Dirichlet divisor problem. Preprint. <a href="https://www.preprints.org/manuscript/202505.1432/v1"><span>Preprints</span></a></li>  
   <li>18. On almost primes in Piatetski–Shapiro sequences. Preprint. <a href="https://arxiv.org/abs/2505.09634"><span>arXiv</span></a></li>  
   <li>17. Primes in arithmetic progressions to smooth moduli: A minorant version. Preprint. <a href="https://arxiv.org/abs/2505.09629"><span>arXiv</span></a></li>  
   <li>16. On prime–producing sieves and distribution of $\alpha p - \beta$ mod $1$. Preprint. <a href="https://arxiv.org/abs/2504.13195"><span>arXiv</span></a></li>  
