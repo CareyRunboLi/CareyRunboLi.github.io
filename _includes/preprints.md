@@ -7,6 +7,9 @@
 ## Publications
 
 <ul style="margin:0 0 5px;">
+  <li>23. On Chen's theorem, Goldbach's conjecture and almost prime twins II. Preprint. <a href="https://arxiv.org/abs/2405.05727v4"><span>arXiv</span></a></li>  
+  <li>22. On the largest prime factor of quadratic polynomials. Preprint. <a href="https://arxiv.org/abs/2406.07575v2"><span>arXiv</span></a></li>  
+  <li>21. A remark on the distribution of $\sqrt{p}$ modulo one involving primes of special type II. Preprint. <a href="https://arxiv.org/abs/2401.01351v2"><span>arXiv</span></a></li>  
   <li>20. Largest square divisors of shifted primes. Preprint. <a href="https://arxiv.org/abs/2505.23779v1"><span>arXiv</span></a></li>  
   <li>19. On the generalized Dirichlet divisor problem. Preprint. <a href="https://www.preprints.org/manuscript/202505.1432/v1"><span>Preprints</span></a></li>  
   <li>18. On almost primes in Piatetski–Shapiro sequences. Preprint. <a href="https://arxiv.org/abs/2505.09634"><span>arXiv</span></a></li>  
