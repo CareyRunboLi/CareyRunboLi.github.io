@@ -7,6 +7,7 @@
 ## Publications
 
 <ul style="margin:0 0 5px;">
+  <li>24. On the largest prime factor of integers in short intervals II. Preprint. <a href="https://doi.org/10.33774/coe-2025-xnbjq"><span>Cambridge Open Engage</span></a></li>  
   <li>23. On Chen's theorem, Goldbach's conjecture and almost prime twins II. Preprint. <a href="https://arxiv.org/abs/2405.05727v4"><span>arXiv</span></a></li>  
   <li>22. On the largest prime factor of quadratic polynomials. Preprint. <a href="https://arxiv.org/abs/2406.07575v2"><span>arXiv</span></a></li>  
   <li>21. A remark on the distribution of $\sqrt{p}$ modulo one involving primes of special type II. Preprint. <a href="https://arxiv.org/abs/2401.01351v2"><span>arXiv</span></a></li>  
