@@ -7,6 +7,8 @@
 ## Publications
 
 <ul style="margin:0 0 5px;">
+  <li>26. On the weighted AM–GM inequality and refined inequalities between arithmetic functions. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_integers_in_short_intervals_II.pdf"><span>Download</span></a>  
+  <li>25. On the exceptional set in the $abc$ conjecture. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_integers_in_short_intervals_II.pdf"><span>Download</span></a>  
   <li>24. On the largest prime factor of integers in short intervals II. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_integers_in_short_intervals_II.pdf"><span>Download</span></a>. <a href="https://doi.org/10.33774/coe-2025-xnbjq"><span>Cambridge Open Engage</span></a></li>  
   <li>23. On Chen's theorem, Goldbach's conjecture and almost prime twins II. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_Chen_s_theorem__Goldbach_s_conjecture_and_almost_prime_twins_II.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2405.05727v4"><span>arXiv</span></a></li>  
   <li>22. On the largest prime factor of quadratic polynomials. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_quadratic_polynomials.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2406.07575v2"><span>arXiv</span></a></li>  
