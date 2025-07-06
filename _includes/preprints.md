@@ -16,7 +16,7 @@
   <li>18. On almost primes in Piatetski–Shapiro sequences. Preprint. <a href="https://arxiv.org/abs/2505.09634"><span>arXiv</span></a></li>  
   <li>17. Primes in arithmetic progressions to smooth moduli: A minorant version. Preprint. <a href="https://arxiv.org/abs/2505.09629v1"><span>arXiv</span></a></li>  
   <li>16. On prime–producing sieves and distribution of $\alpha p - \beta$ mod $1$. Preprint. <a href="https://arxiv.org/abs/2504.13195v2"><span>arXiv</span></a></li>  
-  <li>15. A note on variants of Buchstab's identity. Preprint. <a href="https://arxiv.org/abs/2504.07974v1"><span>arXiv</span></a></li>
+  <li>15. A note on variants of Buchstab's identity. Preprint. <a href="https://arxiv.org/abs/2504.07974v1"><span>arXiv</span></a> <a href="https://github.com/CareyRunboLi/CareyRunboLi.github.io/blob/main/_includes/downloads/A_note_on_variants_of_Buchstab_s_identity.pdf"><span>Download</span></a></li>
   <li>14. The number of primes in short intervals and numerical calculations for Harman's sieve. Preprint. <a href="https://arxiv.org/abs/2308.04458v6"><span>arXiv</span></a></li>
   <li>13. On the Piatetski–Shapiro Prime Number Theorem II. Preprint. <a href="https://www.preprints.org/manuscript/202504.1165/v1"><span>Preprints</span></a></li>
   <li>12. On the Piatetski–Shapiro Prime Number Theorem. Preprint. <a href="https://www.preprints.org/manuscript/202504.1190/v1"><span>Preprints</span></a></li>
