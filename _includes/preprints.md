@@ -33,4 +33,5 @@
   <li>3. A remark on the distribution of $\sqrt{p}$ modulo one involving primes of special type. Hiroshima Mathematical Journal, to appear. <a href="http://runbolicarey.com/assets/downloads/A_remark_on_the_distribution_of__p_modulo_one_involving_primes_of_special_type.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2401.01351v1"><span>arXiv</span></a></li>
   <li>2. On the upper and lower bound orders of almost prime triples. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_upper_and_lower_bound_orders_of_almost_prime_triples.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2401.01348v1"><span>arXiv</span></a></li>
   <li>1. On some problems of primes with the floor function. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_some_problems_of_primes_involving_the_floor_function.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2308.16301v1"><span>arXiv</span></a></li>  
+  
 </ul>
