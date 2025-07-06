@@ -26,9 +26,9 @@
   <li>8. On Chen's theorem, Goldbach's conjecture and almost prime twins. Preprint. <a href="https://arxiv.org/abs/2405.05727v3"><span>arXiv</span></a></li>
   <li>7. On a conjecture involving twin practical numbers. Preprint. <a href="https://www.preprints.org/manuscript/202504.1211/v1"><span>Preprints</span></a></li>
   <li>6. A remark on large even integers of the form $p + P_3$. Preprint. <a href="https://arxiv.org/abs/2403.09691v1"><span>arXiv</span></a></li>
-  <li>5. Hybrid estimation of single exponential sums, exceptional characters and primes in short intervals. Preprint. <a href="https://arxiv.org/abs/2401.11139v3"><span>arXiv</span></a></li>
-  <li>4. Remarks on additive representations of natural numbers. Preprint. <a href="https://arxiv.org/abs/2309.03218v6"><span>arXiv</span></a></li>
-  <li>3. A remark on the distribution of $\sqrt{p}$ modulo one involving primes of special type. Hiroshima Mathematical Journal, to appear. <a href="https://arxiv.org/abs/2401.01351v1"><span>arXiv</span></a></li>
-  <li>2. On the upper and lower bound orders of almost prime triples. Preprint. <a href="https://arxiv.org/abs/2401.01348v1"><span>arXiv</span></a></li>
-  <li>1. On some problems of primes with the floor function. Preprint. <a href="https://arxiv.org/abs/2308.16301v1"><span>arXiv</span></a></li>
+  <li>5. Hybrid estimation of single exponential sums, exceptional characters and primes in short intervals. Preprint. <a href="http://runbolicarey.com/assets/downloads/Hybrid_estimation_of_exponential_sums__exceptional_characters_and_primes_in_short_intervals.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2401.11139v3"><span>arXiv</span></a></li>
+  <li>4. Remarks on additive representations of natural numbers. Preprint. <a href="http://runbolicarey.com/assets/downloads/Remarks_on_additive_representations_of_natural_numbers__0_9409___8pt_.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2309.03218v6"><span>arXiv</span></a></li>
+  <li>3. A remark on the distribution of $\sqrt{p}$ modulo one involving primes of special type. Hiroshima Mathematical Journal, to appear. <a href="http://runbolicarey.com/assets/downloads/A_remark_on_the_distribution_of__p_modulo_one_involving_primes_of_special_type.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2401.01351v1"><span>arXiv</span></a></li>
+  <li>2. On the upper and lower bound orders of almost prime triples. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_upper_and_lower_bound_orders_of_almost_prime_triples.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2401.01348v1"><span>arXiv</span></a></li>
+  <li>1. On some problems of primes with the floor function. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_some_problems_of_primes_involving_the_floor_function.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2308.16301v1"><span>arXiv</span></a></li>
 </ul>
