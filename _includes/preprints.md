@@ -6,7 +6,7 @@
 
 ## Publications
 
-<a href="https://runbolicarey.com/assets/downloads/_Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a>
+<a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a>
 
 <ul style="margin:0 0 5px;">
   <li>27. An average Brun–Titchmarsh theorem and shifted primes with a large prime factor. Preprint. <a href="https://runbolicarey.com/assets/downloads/An_average_Brun__Titchmarsh_theorem_and_shifted_primes_with_a_large_prime_factor.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2508.18285v1"><span>arXiv</span></a></li>  
