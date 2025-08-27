@@ -7,6 +7,7 @@
 ## Publications
 
 <ul style="margin:0 0 5px;">
+  <li>28. An average Brun–Titchmarsh theorem and shifted primes with a large prime factor. Preprint. <a href="http://runbolicarey.com/assets/downloads/An_average_Brun__Titchmarsh_theorem_and_shifted_primes_with_a_large_prime_factor.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2508.18285v1"><span>arXiv</span></a></li>  
   <li>27. A refinement of IMO 2020 Problem 2. Preprint. <a href="http://runbolicarey.com/assets/downloads/A_refinement_of_IMO_2020_Problem_2.pdf"><span>Download</span></a></li>  
   <li>26. On the weighted AM–GM inequality and refined inequalities between arithmetic functions. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_weighted_AM__GM_inequality_and_refined_inequalities_between_arithmetic_functions.pdf"><span>Download</span></a></li>  
   <li>25. On the exceptional set in the $abc$ conjecture. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_exceptional_set_in_the_abc_conjecture.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2507.02885v1"><span>arXiv</span></a></li>  
