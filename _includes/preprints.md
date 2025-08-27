@@ -5,7 +5,7 @@
 </style>
 
 ## Publications
-
+1
 <ul style="margin:0 0 5px;">
   <li>27. An average Brun–Titchmarsh theorem and shifted primes with a large prime factor. Preprint. <a href="http://runbolicarey.com/assets/downloads/An_average_Brun__Titchmarsh_theorem_and_shifted_primes_with_a_large_prime_factor.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2508.18285v1"><span>arXiv</span></a></li>  
   <li>26. On the weighted AM–GM inequality and refined inequalities between arithmetic functions. Preprint. <a href="http://runbolicarey.com/assets/downloads/On_the_weighted_AM__GM_inequality_and_refined_inequalities_between_arithmetic_functions.pdf"><span>Download</span></a></li>  
