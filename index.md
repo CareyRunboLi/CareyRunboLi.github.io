@@ -10,7 +10,7 @@ I’m a high school student at International Curriculum Center of The High Schoo
 
 **High School**  
 International Curriculum Center, The High School Affiliated to Renmin University of China  
-*Sep 2023-Present*  
+*2023-Present*  
 
 {% include_relative _includes/preprints.md %}
 
