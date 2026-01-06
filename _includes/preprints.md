@@ -9,8 +9,8 @@
 <a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a>
 
 <ul style="margin:0 0 5px;">
-  <li>33. On the largest prime factor of integers in short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_integers_in_short_intervals_III.pdf"><span>Download</span></a></li>  
-  <li>32. Primes in almost all short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_almost_all_short_intervals_III.pdf"><span>Download</span></a></li>  
+  <li>33. Primes in almost all short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_almost_all_short_intervals_III.pdf"><span>Download</span></a></li>  
+  <li>32. On the largest prime factor of integers in short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_integers_in_short_intervals_III.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2601.00910v1"><span>arXiv</span></a></li>  
   <li>31. Sums of two squares of primes in short intervals. Preprint. <a href="https://runbolicarey.com/assets/downloads/Sums_of_two_squares_of_primes_in_short_intervals.pdf"><span>Download</span></a>. <a href="https://doi.org/10.33774/coe-2025-15m3h"><span>Cambridge Open Engage</span></a></li>  
   <li>30. Bombieri–Vinogradov Theorem in shorter intervals. Preprint. <a href="https://runbolicarey.com/assets/downloads/Bombieri__Vinogradov_Theorem_in_shorter_intervals.pdf"><span>Download</span></a>. <a href="https://www.preprints.org/manuscript/202511.0089/v1"><span>Preprints</span></a></li>  
   <li>29. Primes in almost all short intervals II. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_almost_all_short_intervals_II.pdf"><span>Download</span></a>. <a href="https://doi.org/10.33774/coe-2025-jrnjl"><span>Cambridge Open Engage</span></a></li>  
