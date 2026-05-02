@@ -10,11 +10,11 @@ layout: homepage
 
 **B.Sc.**  
   
-*2026-now*  
+*2026–now*  
 
 **High School**  
 International Curriculum Center, The High School Affiliated to Renmin University of China  
-*2023-2026*  
+*2023–2026*  
 
 {% include_relative _includes/preprints.md %}
 
