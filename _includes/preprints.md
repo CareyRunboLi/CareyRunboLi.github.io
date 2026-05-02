@@ -6,7 +6,7 @@
 
 ## Publications and Preprints
 
-<a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a>
+<!-- <a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a> -->
 
 <ul style="margin:0 0 5px;">
   <li>34. Primes in almost all short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_almost_all_short_intervals_III.pdf"><span>Download</span></a></li>  
