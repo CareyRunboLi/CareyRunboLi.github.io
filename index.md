@@ -18,4 +18,6 @@ International Curriculum Center, The High School Affiliated to Renmin University
 
 {% include_relative _includes/preprints.md %}
 
+{% include_relative _includes/manuscripts.md %}
+
 {% include_relative _includes/presentations.md %}
