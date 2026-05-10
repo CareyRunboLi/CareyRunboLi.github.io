@@ -9,7 +9,6 @@
 <!-- <a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a> -->
 
 <ul style="margin:0 0 5px;">
-  <li>34. Primes in almost all short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_almost_all_short_intervals_III.pdf"><span>Download</span></a></li>  
   <li>33. Primes in arithmetic progressions to large moduli and refinements of Harman's sieve. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_arithmetic_progressions_to_large_moduli_and_refinements_of_Harman_s_sieve.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2602.20917v5"><span>arXiv</span></a></li>  
   <li>32. On the largest prime factor of integers in short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_integers_in_short_intervals_III.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2601.00910v1"><span>arXiv</span></a></li>  
   <li>31. Sums of two squares of primes in short intervals. Preprint. <a href="https://runbolicarey.com/assets/downloads/Sums_of_two_squares_of_primes_in_short_intervals.pdf"><span>Download</span></a>. <a href="https://doi.org/10.33774/coe-2025-15m3h"><span>Cambridge Open Engage</span></a></li>  
