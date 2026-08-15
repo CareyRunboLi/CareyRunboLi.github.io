@@ -44,6 +44,7 @@
 7.88s (2026/08/12) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_100m_7.88s_260812_5.mp4"><span>Video Download</span></a>  
 7.88s (2026/08/12) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_100m_7.88s_260812_6.mp4"><span>Video Download</span></a>  
 7.88s (2026/08/12) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_100m_7.88s_260812_7.mp4"><span>Video Download</span></a>  
+7.88s (2026/08/14) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_100m_7.88s_260814.mp4"><span>Video Download</span></a>  
 7.89s (2026/07/25) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_100m_7.89s_260725.mp4"><span>Video Download</span></a>  
 7.89s (2026/08/06) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_100m_7.89s_260806.mp4"><span>Video Download</span></a>  
 7.89s (2026/08/07) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_100m_7.89s_260807.mp4"><span>Video Download</span></a>  
@@ -58,10 +59,12 @@
 39.43s (2026/08/06) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.43s_260806_Lite.mp4"><span>Video Download</span></a>  
 39.46s (2026/08/07) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.46s_260807_Lite.mp4"><span>Video Download</span></a>  
 39.46s (2026/08/10) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.46s_260810_Lite.mp4"><span>Video Download</span></a>  
+39.48s (2026/08/14) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.48s_260814_Lite.mp4"><span>Video Download</span></a>  
 39.49s (2026/08/06) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.49s_260806_Lite.mp4"><span>Video Download</span></a>  
 39.49s (2026/08/07) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.49s_260807_Lite.mp4"><span>Video Download</span></a>  
 39.51s (2026/08/06)  
 39.53s (2026/08/07) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.53s_260807_Lite.mp4"><span>Video Download</span></a>  
+39.53s (2026/08/14) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.53s_260814_Lite.mp4"><span>Video Download</span></a>  
 39.54s (2026/08/05) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.54s_260805_Lite.mp4"><span>Video Download</span></a>  
 39.54s (2026/08/06) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.54s_260806_Lite.mp4"><span>Video Download</span></a>  
 39.55s (2026/08/06) <a href="https://runbolicarey.com/assets/TrackAndField/DeluxeTrackAndField_400m_39.55s_260806_Lite.mp4"><span>Video Download</span></a>  
