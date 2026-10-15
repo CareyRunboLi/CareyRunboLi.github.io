@@ -9,6 +9,7 @@
 <!-- <a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a> -->
 
 <ul style="margin:0 0 5px;">
+  <li>36. Large value estimates for Dirichlet polynomials and trilinear sums over short intervals. Preprint. <a href="https://runbolicarey.com/assets/downloads/Large_value_estimates_for_Dirichlet_polynomials_and_trilinear_sums_in_short_intervals.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2610.18923v1"><span>arXiv</span></a></li>  
   <li>35. On the largest prime factor of integers in short intervals IV. Preprint. <a href="https://runbolicarey.com/assets/downloads/On_the_largest_prime_factor_of_integers_in_short_intervals_IV.pdf"><span>Download</span></a>. <a href="https://doi.org/10.33774/coe-2026-24kjf"><span>Cambridge Open Engage</span></a></li>  
   <li>34. The number of Piatetski-Shapiro primes in short intervals. Preprint. <a href="https://runbolicarey.com/assets/downloads/The_number_of_Piatetski__Shapiro_primes_in_short_intervals.pdf"><span>Download</span></a>. <a href="https://doi.org/10.33774/coe-2026-qpr94"><span>Cambridge Open Engage</span></a></li>  
   <li>33. Primes in arithmetic progressions to large moduli and refinements of Harman's sieve. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_arithmetic_progressions_to_large_moduli_and_refinements_of_Harman_s_sieve.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2602.20917v6"><span>arXiv</span></a></li>  
