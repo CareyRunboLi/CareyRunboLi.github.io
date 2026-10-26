@@ -6,6 +6,9 @@
 
 ## Publications and Preprints
 
+This is a full list of all my published journal articles and preprints.
+Some of these preprints, especially the earliest ones, will no longer be submitted to any journal.
+
 <!-- <a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a> -->
 
 <ul style="margin:0 0 5px;">
