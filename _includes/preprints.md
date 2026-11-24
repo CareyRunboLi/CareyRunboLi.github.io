@@ -12,6 +12,7 @@ Some of these preprints, especially the earliest ones, will no longer be submitt
 <!-- <a href="https://runbolicarey.com/assets/downloads/Papers_by_Runbo_Li_website.pdf"><span>Papers by Runbo Li</span></a> -->
 
 <ul style="margin:0 0 5px;">
+  <li>41. Primes in arithmetic progressions to large moduli with multilinear weights. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_arithmetic_progressions_to_large_moduli_with_multilinear_weights.pdf"><span>Download</span></a>. <a href="https://arxiv.org/abs/2611.29075"><span>arXiv</span></a></li>  
   <li>40. Primes in almost all short intervals III. Preprint. <a href="https://runbolicarey.com/assets/downloads/Primes_in_almost_all_short_intervals_III.pdf"><span>Download</span></a>. <a href="https://doi.org/10.33774/coe-2026-cvr4f"><span>Cambridge Open Engage</span></a></li>  
   <li>39. Waring–Goldbach Problem: One square, four fifth powers and twenty-two seventh powers. Preprint. <a href="https://runbolicarey.com/assets/downloads/Waring__Goldbach_Problem_One_square__four_fifth_powers_and_twenty_two_seventh_powers.pdf"><span>Download</span></a>. <a href="https://hexagonmath.org/2610.00423v1"><span>Hexagon</span></a></li>  
   <li>38. Waring–Goldbach Problem: One square, four fifth powers and fifteen sixth powers. Preprint. <a href="https://runbolicarey.com/assets/downloads/Waring__Goldbach_Problem_One_square__four_fifth_powers_and_fifteen_sixth_powers.pdf"><span>Download</span></a>. <a href="https://hexagonmath.org/2610.00422v1"><span>Hexagon</span></a></li>  
